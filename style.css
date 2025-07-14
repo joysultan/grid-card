@@ -27,6 +27,10 @@
     font-weight: 700;
     display: block;
     text-align: center;
+    transition: .3s;
+}
+.item a:hover{
+    background-color: transparent;
 }
 .wrapper{
     display: flex;
